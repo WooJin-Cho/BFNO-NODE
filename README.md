@@ -1,4 +1,4 @@
-# Operator-learning-inspired Modeling of Neural Ordinary Differential Equations
+# Operator-learning-inspired Modeling of Neural Ordinary Differential Equations (AAAI 2024)
 
 ## Introduction
 
